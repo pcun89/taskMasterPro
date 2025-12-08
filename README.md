@@ -1,4 +1,4 @@
-# TaskMaster Pro
+
 
 A polished .NET full-stack Task Manager you can host on GitHub and show on your resume.
 

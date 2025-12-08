@@ -1,7 +1,8 @@
+// frontend/vite.config.js
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-    base: '/taskMasterPro/',   // <-- <— critical for GitHub Pages subpath
+    base: '/taskMasterPro/',   // <<-- required for GitHub Pages subpath
     plugins: [react()],
 })

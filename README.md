@@ -1,6 +1,5 @@
 
 
-A polished .NET full-stack Task Manager you can host on GitHub and show on your resume.
 
 **Features (this fork)**
 - ASP.NET Core Web API with Entity Framework Core (SQL Server)

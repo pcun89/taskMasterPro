@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import TaskForm from "./components/TaskForm";
+import TaskForm from "./TaskForm";
 import TaskList from "./components/TaskList";
 import "./styles.css";
 
